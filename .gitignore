@@ -24,3 +24,6 @@ hs_err_pid*
 /ColeccionesGenericas/target/
 /EntradaDatos1/target/
 /EntradaDatos/target/
+/ManejoArchivos/target/
+/IntroduccionJDBC/target/
+/ManejoJDBC/target/
