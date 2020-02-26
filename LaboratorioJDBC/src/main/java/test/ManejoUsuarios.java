@@ -17,8 +17,9 @@ public class ManejoUsuarios {
             System.out.println(usuario);
         }
         
-        Usuario usuario = new Usuario("Sinue", "secret");
-        usuarioJDBC.insert(usuario);
+        Usuario usuario = new Usuario();
+        usuario.setId(1);
+        usuarioJDBC.delete(usuario);
         
         usuarios = usuarioJDBC.select();
         
