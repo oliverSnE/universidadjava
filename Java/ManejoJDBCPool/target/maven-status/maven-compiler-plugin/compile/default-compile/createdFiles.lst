@@ -1,0 +1,6 @@
+datos\Conexion.class
+datos\PersonaDaoInterface.class
+datos\PersonaDaoJDBC.class
+domain\PersonaDTO.class
+.netbeans_automatic_build
+test\ManejoPersonas.class
